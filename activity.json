@@ -1,0 +1,417 @@
+[
+ {
+  "id": "aeb5c31d-992b-482a-b99c-e3ba4666444d",
+  "activity": [
+   {
+    "chainId": "13074250561443237983",
+    "amount": 1000.2195,
+    "createdAt": "2019-05-23T00:42:06+00:00",
+    "shoeSize": "XL",
+    "productId": null,
+    "skuUuid": "1ab04d26-1ac7-4e5e-85fc-5025810195d2",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1001,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "13054582060902859255",
+    "amount": 1900,
+    "createdAt": "2019-04-25T21:24:15+00:00",
+    "shoeSize": "XL",
+    "productId": null,
+    "skuUuid": "1ab04d26-1ac7-4e5e-85fc-5025810195d2",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1900,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12730171383681051002",
+    "amount": 800,
+    "createdAt": "2018-09-15T22:47:25+00:00",
+    "shoeSize": "S",
+    "productId": null,
+    "skuUuid": "1984c170-ab11-4594-b157-0b8062173651",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 800,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "e87734ac-9ca3-4bd3-9771-fd0605a2c675",
+  "activity": [
+   {
+    "chainId": "13024158901182486400",
+    "amount": 453,
+    "createdAt": "2019-03-15T06:46:01+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "9547f1d5-8c0b-43d2-93fb-6e49b875e98a",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 453,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12751396822838311475",
+    "amount": 400,
+    "createdAt": "2018-03-16T22:34:20+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "126b6c12-5593-4474-a5d1-c3f1fb8fc4d2",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 400,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "037c9a52-f790-423d-998b-cb0d3fdb2f21",
+  "activity": [
+   {
+    "chainId": "13063599539303697084",
+    "amount": 871,
+    "createdAt": "2019-05-09T19:30:37+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "3b9df049-dfcf-4f2d-bc6f-50f6e08c25e3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 871,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12937968170246557245",
+    "amount": 1143,
+    "createdAt": "2018-11-23T17:07:36+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "3b9df049-dfcf-4f2d-bc6f-50f6e08c25e3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1143,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12927427079201101274",
+    "amount": 1000,
+    "createdAt": "2018-11-06T03:12:55+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "3b9df049-dfcf-4f2d-bc6f-50f6e08c25e3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1000,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12815283759848201147",
+    "amount": 1300,
+    "createdAt": "2018-08-12T05:09:24+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "14b8c5d3-dae4-4191-8c14-76de19713740",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1300,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12701133925599623734",
+    "amount": 1000,
+    "createdAt": "2018-01-04T16:56:18+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "3b9df049-dfcf-4f2d-bc6f-50f6e08c25e3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1000,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "a6b1821b-29b0-48d7-869e-4695e055569a",
+  "activity": null
+ },
+ {
+  "id": "5e4ba6e7-f60d-454e-980e-68a553bd2928",
+  "activity": [
+   {
+    "chainId": "12960691063069898876",
+    "amount": 920,
+    "createdAt": "2019-01-03T19:05:31+00:00",
+    "shoeSize": "XL",
+    "productId": null,
+    "skuUuid": "0e00f87d-4856-42ba-a92d-e079c2474f18",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 920,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12877212729037327525",
+    "amount": 1400,
+    "createdAt": "2018-08-27T04:50:25+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "12a4997c-3fc6-4c45-847f-cc004723e160",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1400,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12815621339981634452",
+    "amount": 1395,
+    "createdAt": "2018-08-27T04:48:30+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "12a4997c-3fc6-4c45-847f-cc004723e160",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1395,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12797215709577756662",
+    "amount": 1225,
+    "createdAt": "2018-05-17T02:34:34+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "547a94aa-d3bc-40c2-a69e-929c6f31f0aa",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1225,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12703835647687658843",
+    "amount": 1399,
+    "createdAt": "2018-03-28T14:52:27+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "547a94aa-d3bc-40c2-a69e-929c6f31f0aa",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1399,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12740258922494050812",
+    "amount": 1200,
+    "createdAt": "2018-02-28T19:14:39+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "12a4997c-3fc6-4c45-847f-cc004723e160",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1200,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12687763492614160868",
+    "amount": 1300,
+    "createdAt": "2017-12-10T02:59:02+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "547a94aa-d3bc-40c2-a69e-929c6f31f0aa",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1300,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "7bec9a1e-2372-4ed1-81fe-bd1eb965f938",
+  "activity": [
+   {
+    "chainId": "12997536040487049214",
+    "amount": 1400,
+    "createdAt": "2019-02-18T07:33:13+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7b610c12-516f-4858-adda-df4d93012592",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1400,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12689527283223546394",
+    "amount": 1450,
+    "createdAt": "2018-12-03T18:19:12+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1450,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12947301376141647101",
+    "amount": 1250,
+    "createdAt": "2018-11-28T20:56:42+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1250,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12923453315899055129",
+    "amount": 1150,
+    "createdAt": "2018-11-19T08:58:48+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7b610c12-516f-4858-adda-df4d93012592",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1150,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12708902541219385637",
+    "amount": 1399,
+    "createdAt": "2018-08-11T04:59:00+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1399,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12748975265761260930",
+    "amount": 1449,
+    "createdAt": "2018-06-22T01:53:21+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7b610c12-516f-4858-adda-df4d93012592",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1449,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12750334586896947698",
+    "amount": 1475,
+    "createdAt": "2018-06-06T01:17:24+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1475,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12767044706365871431",
+    "amount": 1350,
+    "createdAt": "2018-03-28T19:05:45+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7b610c12-516f-4858-adda-df4d93012592",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1350,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12699979659178109459",
+    "amount": 1530,
+    "createdAt": "2018-03-04T05:48:08+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1530,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12730466809939172192",
+    "amount": 1251,
+    "createdAt": "2018-02-02T16:45:05+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7b610c12-516f-4858-adda-df4d93012592",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1251,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12684012203227324417",
+    "amount": 796,
+    "createdAt": "2017-12-05T16:33:51+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "7d30d6f4-bc63-491b-a392-634ff399f2c3",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 796,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "8c3dfe24-f865-41a7-97aa-9480c81c1887",
+  "activity": [
+   {
+    "chainId": "12715985588671904889",
+    "amount": 2250,
+    "createdAt": "2018-01-13T22:59:05+00:00",
+    "shoeSize": "XL",
+    "productId": null,
+    "skuUuid": "096ec905-7d8e-4212-a2bd-defed931cc3b",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 2250,
+    "localCurrency": "USD"
+   },
+   {
+    "chainId": "12652831230711007657",
+    "amount": 1000,
+    "createdAt": "2017-10-24T22:54:21+00:00",
+    "shoeSize": "L",
+    "productId": null,
+    "skuUuid": "7ccb9b1b-bce3-44cb-ade2-6b9220471e8c",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 1000,
+    "localCurrency": "USD"
+   }
+  ]
+ },
+ {
+  "id": "052831cb-88d6-4e0a-9a85-07dea82607a4",
+  "activity": null
+ },
+ {
+  "id": "465f7e77-9613-4ed2-a192-f98def38690b",
+  "activity": [
+   {
+    "chainId": "12800973122990194900",
+    "amount": 900,
+    "createdAt": "2018-05-27T04:13:25+00:00",
+    "shoeSize": "M",
+    "productId": null,
+    "skuUuid": "830297cc-47dd-421d-b57e-0d257efcd32f",
+    "state": "480",
+    "customerId": null,
+    "localAmount": 900,
+    "localCurrency": "USD"
+   }
+  ]
+ }
+]
